@@ -97,5 +97,27 @@ brew install tree
 brew install vbindiff
 brew install zopfli
 
+brew install ansible
+brew install docker
+brew install docker-machine
+brew install docker-machine-driver-hyperkit
+brew install go
+brew install hyperkit
+brew install inetutils
+brew install jq
+brew install kafkacat
+brew install kubernetes-cli
+brew install librdkafka
+brew install maven
+brew install minikube
+brew install node
+brew install openssl
+brew install python
+brew install sshpass
+brew install telnet
+brew install wine
+brew install winetricks
+brew install terraform
+
 # Remove outdated versions from the cellar.
 brew cleanup
